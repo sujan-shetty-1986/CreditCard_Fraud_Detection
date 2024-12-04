@@ -9,9 +9,6 @@ Detecting credit card fraud using machine learning models.
 - **[Getting Started](#2)**
   - **[Project Overview](#2.1.1)**
   - **[Prerequisites](#2.1)**
-  - **[Installation](#2.2)**
-- **[Usage](#3)**
-- **[Contributing](#4)**
 - **[License]()**
 - **[Acknowledgements](#6)**
 
@@ -45,19 +42,6 @@ Machine Learning Models Used:
 * Python (>=3.6)
 * Jupyter Notebook
 * Libraries listed in `requirements.txt`
-
-<a id='2.2'></a>
-## Installation
-  1. Clone the repo
-      git clone https://github.com/ShashankkSahu/CreditCard_fraud_detection.git
-     
-<a id='3'></a>     
-## Usage
-Open the Jupyter Notebook Prediction of Credit Card fraud.ipynb. Follow the step-by-step instructions to preprocess data, train models, and evaluate performance.
-
-<a id='4'></a>
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 <a id='6'></a>
 ## Acknowledgements
