@@ -3,9 +3,9 @@ numpy
 matplotlib
 seaborn
 xgboost
-sklearn
+scikit-learn
 mlxtend
 imblearn
-scikit-learn
+streamlit
 joblib
 warnings
