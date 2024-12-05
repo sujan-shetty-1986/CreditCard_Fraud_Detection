@@ -1,11 +1,11 @@
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
-pip install xgboost
-pip install sklearn
-pip install mlxtend
-pip install imblearn
-pip install streamlit
-pip install joblib
-pip install warnings
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+sklearn
+mlxtend
+imblearn
+streamlit
+joblib
+warnings
