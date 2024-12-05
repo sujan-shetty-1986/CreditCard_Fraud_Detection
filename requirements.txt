@@ -6,6 +6,6 @@ xgboost
 sklearn
 mlxtend
 imblearn
-streamlit
+scikit-learn
 joblib
 warnings
